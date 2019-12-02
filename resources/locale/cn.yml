@@ -1,0 +1,6 @@
+flarum-ext-bing-wallpaper:
+  admin:
+    settings:
+      title: 背景壁纸设置
+      transparency_label: 背景透明度
+      url_label: 壁纸图片地址

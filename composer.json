@@ -1,0 +1,45 @@
+{
+    "name": "irony/flarum-ext-bing-wallpaper",
+    "description": "The Bing Wallpaper For Background",
+    "keywords": [
+        "flarum",
+        "wallpaper",
+        "image",
+        "bing"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irony",
+            "email": "892768447@qq.com",
+            "homepage": "https://pyqt.site/"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.8"
+    },
+    "support": {
+        "issues": "https://github.com/892768447/flarum-ext-bing-wallpaper/issues",
+        "source": "https://github.com/892768447/flarum-ext-bing-wallpaper"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Bing Wallpaper",
+            "icon": {
+                "name": "fas fa-images",
+                "backgroundColor": "#0c8484",
+                "color": "#fff"
+            }
+        },
+        "flagrow": {
+            "discuss": "",
+            "github": "https://github.com/892768447/flarum-ext-bing-wallpaper"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Irony\\Bing\\Wallpaper\\": "src/"
+        }
+    }
+}
