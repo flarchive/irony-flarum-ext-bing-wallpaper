@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of irony/flarum-ext-bing-wallpaper.** Not for installation: use [Packagist](https://packagist.org/packages/irony/flarum-ext-bing-wallpaper) or the [upstream repository](https://github.com/892768447/flarum-ext-bing-wallpaper).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/irony-flarum-ext-bing-wallpaper/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/irony-flarum-ext-bing-wallpaper/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2019-11-30 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/irony-flarum-ext-bing-wallpaper/tree/archive/v0.0.1) |
+| `0.0.2` | 2019-12-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/irony-flarum-ext-bing-wallpaper/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/irony-flarum-ext-bing-wallpaper.json](https://github.com/flarchive/archive-index/blob/main/packages/irony-flarum-ext-bing-wallpaper.json)
 
